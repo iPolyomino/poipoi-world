@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,,,function(e,n,o){e.exports=o(4)},function(e,n,o){"use strict";o.r(n);var t=o(0),r=o.n(t),a=o(2);o.n(a).a.render(r.a.createElement("h1",null,"Hello World from React."),document.getElementById("app"))}],[[3,2,0]]]);
