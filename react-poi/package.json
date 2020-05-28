@@ -8,8 +8,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "poi": "^12.7.5",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "poi": "^12.8.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
