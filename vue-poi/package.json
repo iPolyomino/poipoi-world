@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "poi": "^12.7.5",
+    "poi": "^12.8.0",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
   }
